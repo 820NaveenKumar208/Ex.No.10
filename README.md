@@ -85,41 +85,41 @@ Case Study 2: Fantasy Story Excerpt
 
 ## Prompt Experimentation:
 
-#### Case Study 1: News Report on Space Tourism
+## Case Study 1: News Report on Space Tourism
 
-Prompt 1 - Simple Request:
+### Prompt 1 - Simple Request:
 
 #### Write a news article about the current state of space tourism.
 
-Result: A straightforward report summarizing companies like SpaceX and Blue Origin, highlighting ticket prices and public interest.
+##### Result: A straightforward report summarizing companies like SpaceX and Blue Origin, highlighting ticket prices and public interest.
 
-Prompt 2 - With Role-Based Framing and Formatting:
+### Prompt 2 - With Role-Based Framing and Formatting:
 
-Imagine you're a space correspondent for a major news outlet. Write a headline, lead paragraph, and body on the future of space tourism, incorporating expert opinions and recent launch statistics.
+#### Imagine you're a space correspondent for a major news outlet. Write a headline, lead paragraph, and body on the future of space tourism, incorporating expert opinions and recent launch statistics.
 
 ##### Result: Dynamic, journalist-style article with clear sections, quotes, and references to recent missions.
 
-Prompt 3 - With Tone Calibration:
+### Prompt 3 - With Tone Calibration:
 
 #### Create an optimistic news report about advancements in space tourism, emphasizing accessibility and innovation.
 
 ##### Result: Uplifting tone focusing on new technologies lowering costs and enabling broader participation.
 
-#### Case Study 2: Fantasy Story Excerpt
+## Case Study 2: Fantasy Story Excerpt
 
-Prompt 1 - Simple Request:
+### Prompt 1 - Simple Request:
 
 #### Write a short fantasy story.
 
 ##### Result: A basic story with knights and dragons, linear plot.
 
-Prompt 2 - With Narrative Branching and Contextual Anchoring:
+### Prompt 2 - With Narrative Branching and Contextual Anchoring:
 
 #### Choose one of the following settings: (a) Floating Islands of Aetheria, (b) Forgotten Forest of Elnar, or (c) Crystal Caverns of Talmor. Develop a story where a young apprentice discovers a hidden power.
 
 ##### Result: Story set in Elnar with rich detail, magical discovery, and choice-driven structure.
 
-Prompt 3 - With Role-Based Prompt and Emotional Tone:
+### Prompt 3 - With Role-Based Prompt and Emotional Tone:
 
 #### Write a heartfelt letter from a young wizard in training, recounting the moment they first encountered their magical gift in the Crystal Caverns of Talmor.
 
